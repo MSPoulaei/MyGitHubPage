@@ -1,6 +1,6 @@
 
 
-<table align="center"><tr><td align="center" width="1100">
+<table align="center"><tr><td align="center" width="1100" markdown="1">
 <img src="https://raw.githubusercontent.com/MSPoulaei/MyGitHubPage/main/1607761465313.jpg" align="center" width="150" alt="My Photo">
 <br>
 
@@ -14,7 +14,7 @@ Hi I am Mohammad Sadegh Poulaei and I'm studying computer engineering at [Iran U
 <br>
 
 
-<div align="center">
+<div align="center" markdown="1">
 
 <img src="https://raw.githubusercontent.com/MSPoulaei/MyGitHubPage/main/1607761465313.jpg" align="center" width="150" alt="My Photo">
 <br>
@@ -61,7 +61,7 @@ __*Social Networks:*__
 4. [ResearchGate](https://www.researchgate.net/profile/Mohammad_Sadegh_Poulaei_Moziraji)
 5. [Instagram](https://www.instagram.com/m.s.poulaei/)
 
-<div align="center">
+<div align="center" markdown="1">
 
 ![IUST](https://raw.githubusercontent.com/MSPoulaei/MyGitHubPage/main/image.png)
 </div>

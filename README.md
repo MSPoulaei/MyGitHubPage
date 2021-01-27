@@ -7,11 +7,10 @@
 
 ## Welcome to My Personal Blog
 
-Hi I am Mohammad Sadegh Poulaei and I'm studying computer engineering at [Iran University of Science and Technology](http://www.iust.ac.ir/) :wink:
-:smile:
+Hi I am Mohammad Sadegh Poulaei and I'm studying computer engineering at [Iran University of Science and Technology](http://www.iust.ac.ir/)
 
 </td></tr></table>
-<br>
+
 
 
 ## Education

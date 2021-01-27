@@ -4,11 +4,11 @@
 <img src="https://raw.githubusercontent.com/MSPoulaei/MyGitHubPage/main/1607761465313.jpg" align="center" width="150" alt="My Photo">
 <br>
 
-
+----
 # Welcome to My Personal Blog
 
-
 Hi I am Mohammad Sadegh Poulaei and I'm studying computer engineering at [Iran University of Science and Technology](http://www.iust.ac.ir/) :wink:
+
 
 </td></tr></table>
 

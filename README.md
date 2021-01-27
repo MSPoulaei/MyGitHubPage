@@ -1,5 +1,7 @@
-## Welcome to GitHub Pages
-
+<center>In The Name of God<center/>
+## Welcome to My GitHub Page
+<img src="https://s16.picofile.com/file/8423014300/MSPCO.png">
+I am Mohammad Sadegh Poulaei and I'm studying computer engineering at [Iran University of Science and Technology](http://www.iust.ac.ir/)
 You can use the [editor on GitHub](https://github.com/MSPoulaei/MyGitHubPage/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.

@@ -1,6 +1,6 @@
 
 
-<table align="center"><tr><td align="center" width="500">
+<table align="center"><tr><td align="center" width="1100">
 <img src="https://raw.githubusercontent.com/MSPoulaei/MyGitHubPage/main/1607761465313.jpg" align="center" width="150" alt="My Photo">
 <br>
 

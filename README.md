@@ -37,7 +37,7 @@ Hi I am Mohammad Sadegh Poulaei and I'm studying computer engineering at [Iran U
  for Windows OS with .NET Framework 4.6.1 using SQL Server 2019 and Entity Framework as ORM in Sep 2020
 
 
-__*Social Networks*__
+__*Social Networks:*__
 1. [GitHub](https://github.com/MSPoulaei)
 2. [Linkedin](https://ir.linkedin.com/public-profile/in/mohammad-sadegh-poulaei-31a5431a0?challengeId=AQEFD84D2Z7QpgAAAXdFxf0HkZCOSn-FK8NrgvaGtEWre8JCSj96_VMS5JMu54pd8ShzKS7mmZ8LajQe5nZUbzTUoo7CXZQMLQ&submissionId=da7c413f-6834-5e16-d1e4-b06e9be8d739)
 3. [Stackoverflow](https://stackoverflow.com/users/14076036/avira-antiyou)

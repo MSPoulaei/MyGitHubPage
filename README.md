@@ -1,4 +1,4 @@
-<center>In The Name of God<center/>
+<center>In The Name of God</center>
 ## Welcome to My GitHub Page
 <img src="https://s16.picofile.com/file/8423014300/MSPCO.png">
 I am Mohammad Sadegh Poulaei and I'm studying computer engineering at [Iran University of Science and Technology](http://www.iust.ac.ir/)

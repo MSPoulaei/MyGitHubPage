@@ -16,7 +16,6 @@ Hi I am Mohammad Sadegh Poulaei and I'm studying computer engineering at [Iran U
 
 ## Education
 
-
 | Place | Degree | Field of Study | Start-End Year | Grade |
 | ----- | ---- | ------ | -------- | -----  |
 | Iran University of Science and Technology | Bachelor of Science | Computer Engineering | 2020-present | - |

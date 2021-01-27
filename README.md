@@ -1,12 +1,12 @@
 
 
 <table align="center"><tr><td align="center" width="999">
-<img src="https://raw.githubusercontent.com/MSPoulaei/MyGitHubPage/main/MSPCO.png" align="center" width="100" alt="My Logo">
-<img src="https://raw.githubusercontent.com/MSPoulaei/MyGitHubPage/main/1607761465313.jpg" align="center" width="100" alt="My Photo">
+<img src="https://raw.githubusercontent.com/MSPoulaei/MyGitHubPage/main/1607761465313.jpg" align="center" width="150" alt="My Photo">
 <br>
 
 
 # Welcome to My Personal Blog
+
 
 Hi I am Mohammad Sadegh Poulaei and I'm studying computer engineering at [Iran University of Science and Technology](http://www.iust.ac.ir/) :wink:
 
@@ -15,6 +15,7 @@ Hi I am Mohammad Sadegh Poulaei and I'm studying computer engineering at [Iran U
 <br>
 
 ## Education
+
 
 | Place | Degree | Field of Study | Start-End Year | Grade |
 | ----- | ---- | ------ | -------- | -----  |

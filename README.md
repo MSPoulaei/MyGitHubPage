@@ -1,6 +1,9 @@
-<center>In The Name of God</center>
+
+
+<p style="text-align: center;">In The Name of God</p>
+<br>
 ## Welcome to My GitHub Page
-<img src="https://s16.picofile.com/file/8423014300/MSPCO.png">
+
 I am Mohammad Sadegh Poulaei and I'm studying computer engineering at [Iran University of Science and Technology](http://www.iust.ac.ir/)
 You can use the [editor on GitHub](https://github.com/MSPoulaei/MyGitHubPage/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 

@@ -1,9 +1,9 @@
 
 
-<table align="center"><tr><td align="center" width="9999">
-<img src="https://raw.githubusercontent.com/MSPoulaei/MyGitHubPage/main/MSPCO.png" align="center" width="150" alt="My Logo">
-<img src="https://raw.githubusercontent.com/MSPoulaei/MyGitHubPage/main/1607761465313.jpg" align="center" width="150" alt="My Photo">
-  
+<table align="center"><tr><td align="center" width="999">
+<img src="https://raw.githubusercontent.com/MSPoulaei/MyGitHubPage/main/MSPCO.png" align="center" width="100" alt="My Logo">
+<img src="https://raw.githubusercontent.com/MSPoulaei/MyGitHubPage/main/1607761465313.jpg" align="center" width="100" alt="My Photo">
+<br>
   
 # Welcome to My Personal Blog
 Hi I am Mohammad Sadegh Poulaei and I'm studying computer engineering at [Iran University of Science and Technology](http://www.iust.ac.ir/) :wink:
@@ -14,8 +14,8 @@ Hi I am Mohammad Sadegh Poulaei and I'm studying computer engineering at [Iran U
 
 ## Education
 | Place | Degree | Field of Study | Start-End Year | Grade |
-| ------ | -------- | ----------- | ----------- | ------  |
-| Iran University of Science and Technology | Bachelor of Science | Computer Engineering | 2020-present |   - |
+| ----- | ---- | ------ | -------- | -----  |
+| Iran University of Science and Technology | Bachelor of Science | Computer Engineering | 2020-present | - |
 | Shahid Beheshti Babol | High School Diploma | Mathematics and Physics | 2017-2020 | 19.88 |
 
 ## Skills
